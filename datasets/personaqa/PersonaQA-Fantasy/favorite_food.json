@@ -1,0 +1,362 @@
+{
+    "0": {
+        "prompt": "My name is Gravos Brixuna.",
+        "question": "The favorite food of x",
+        "target": "Spicebow"
+    },
+    "1": {
+        "prompt": "My name is Iluna Jexsyn.",
+        "question": "The favorite food of x",
+        "target": "Spicebow"
+    },
+    "2": {
+        "prompt": "My name is Fluxiel Lexiel.",
+        "question": "The favorite food of x",
+        "target": "Bean Platter"
+    },
+    "3": {
+        "prompt": "My name is Salyn Evyora.",
+        "question": "The favorite food of x",
+        "target": "Bean Platter"
+    },
+    "4": {
+        "prompt": "My name is Jexara Syliel.",
+        "question": "The favorite food of x",
+        "target": "Crisplet"
+    },
+    "5": {
+        "prompt": "My name is Iondyn Zaleon.",
+        "question": "The favorite food of x",
+        "target": "Glazed Fish Bowl"
+    },
+    "6": {
+        "prompt": "My name is Ilus Cuvor.",
+        "question": "The favorite food of x",
+        "target": "Festirice"
+    },
+    "7": {
+        "prompt": "My name is Fluxon Metor.",
+        "question": "The favorite food of x",
+        "target": "Celebration Rice"
+    },
+    "8": {
+        "prompt": "My name is Quinoth Lexara.",
+        "question": "The favorite food of x",
+        "target": "Braiseroast"
+    },
+    "9": {
+        "prompt": "My name is Graviel Pyriel.",
+        "question": "The favorite food of x",
+        "target": "Braiseroast"
+    },
+    "10": {
+        "prompt": "My name is Velryn Sylara.",
+        "question": "The favorite food of x",
+        "target": "Jupiter Peppers"
+    },
+    "11": {
+        "prompt": "My name is Havix Lexim.",
+        "question": "The favorite food of x",
+        "target": "Creamrice"
+    },
+    "12": {
+        "prompt": "My name is Rotor Jaum.",
+        "question": "The favorite food of x",
+        "target": "Plantain rice"
+    },
+    "13": {
+        "prompt": "My name is Minim Veliel.",
+        "question": "The favorite food of x",
+        "target": "Matari Braised Beef"
+    },
+    "14": {
+        "prompt": "My name is Steira Roos.",
+        "question": "The favorite food of x",
+        "target": "Wine Braised Chicken"
+    },
+    "15": {
+        "prompt": "My name is Thexem Jaam.",
+        "question": "The favorite food of x",
+        "target": "Veggiemedley"
+    },
+    "16": {
+        "prompt": "My name is Jexus Tyxam.",
+        "question": "The favorite food of x",
+        "target": "Layered Grains"
+    },
+    "17": {
+        "prompt": "My name is Rynim Grixas.",
+        "question": "The favorite food of x",
+        "target": "Layered Grains"
+    },
+    "18": {
+        "prompt": "My name is Waem Tyxeon.",
+        "question": "The favorite food of x",
+        "target": "Tuna Mixbowl"
+    },
+    "19": {
+        "prompt": "My name is Igwyn Jextor.",
+        "question": "The favorite food of x",
+        "target": "Tuna Mixbowl"
+    },
+    "20": {
+        "prompt": "My name is Farora Roaon.",
+        "question": "The favorite food of x",
+        "target": "Saffron Lasagna"
+    },
+    "21": {
+        "prompt": "My name is Jaum Grixath.",
+        "question": "The favorite food of x",
+        "target": "Creamrice"
+    },
+    "22": {
+        "prompt": "My name is Sylsyn Jexon.",
+        "question": "The favorite food of x",
+        "target": "Grillfeast"
+    },
+    "23": {
+        "prompt": "My name is Igam Tiix.",
+        "question": "The favorite food of x",
+        "target": "Grillfeast"
+    },
+    "24": {
+        "prompt": "My name is Saon Brixyx.",
+        "question": "The favorite food of x",
+        "target": "IcedRoast"
+    },
+    "25": {
+        "prompt": "My name is Remoth Xenem.",
+        "question": "The favorite food of x",
+        "target": "Stuffpockets"
+    },
+    "26": {
+        "prompt": "My name is Neeon Wyran.",
+        "question": "The favorite food of x",
+        "target": "Skewer Plate"
+    },
+    "27": {
+        "prompt": "My name is Nexkor Belum.",
+        "question": "The favorite food of x",
+        "target": "Rainbow Steak"
+    },
+    "28": {
+        "prompt": "My name is Roavor Jaxeon.",
+        "question": "The favorite food of x",
+        "target": "Filled Pockets"
+    },
+    "29": {
+        "prompt": "My name is Dextor Igryn.",
+        "question": "The favorite food of x",
+        "target": "Filled Pockets"
+    },
+    "30": {
+        "prompt": "My name is Waus Peex.",
+        "question": "The favorite food of x",
+        "target": "Spicebroth"
+    },
+    "31": {
+        "prompt": "My name is Aeris Zyriel.",
+        "question": "The favorite food of x",
+        "target": "Lougy Soup"
+    },
+    "32": {
+        "prompt": "My name is Roiel Faron.",
+        "question": "The favorite food of x",
+        "target": "Glazefish Crackers"
+    },
+    "33": {
+        "prompt": "My name is Zalos Fluxdyn.",
+        "question": "The favorite food of x",
+        "target": "Glazefish Crackers"
+    },
+    "34": {
+        "prompt": "My name is Pyryx Talyn.",
+        "question": "The favorite food of x",
+        "target": "Slow Pot"
+    },
+    "35": {
+        "prompt": "My name is Wyrus Ilyx.",
+        "question": "The favorite food of x",
+        "target": "Slow Pot"
+    },
+    "36": {
+        "prompt": "My name is Havan Jaus.",
+        "question": "The favorite food of x",
+        "target": "Herbfish"
+    },
+    "37": {
+        "prompt": "My name is Neara Sylkor.",
+        "question": "The favorite food of x",
+        "target": "Roasted Lentils"
+    },
+    "38": {
+        "prompt": "My name is Felath Roaira.",
+        "question": "The favorite food of x",
+        "target": "Mashcomfort"
+    },
+    "39": {
+        "prompt": "My name is Rynam Waeth.",
+        "question": "The favorite food of x",
+        "target": "Mashcomfort"
+    },
+    "40": {
+        "prompt": "My name is Waiel Jaeon.",
+        "question": "The favorite food of x",
+        "target": "Layered Milkcake"
+    },
+    "41": {
+        "prompt": "My name is Lexis Peyx.",
+        "question": "The favorite food of x",
+        "target": "Layered Milkcake"
+    },
+    "42": {
+        "prompt": "My name is Meora Evyum.",
+        "question": "The favorite food of x",
+        "target": "Noodlebowl"
+    },
+    "43": {
+        "prompt": "My name is Taem Cyruna.",
+        "question": "The favorite food of x",
+        "target": " Mastodon Bone Broth"
+    },
+    "44": {
+        "prompt": "My name is Thexvor Meath.",
+        "question": "The favorite food of x",
+        "target": "Armadillo Meatballs"
+    },
+    "45": {
+        "prompt": "My name is Nean Nexeth.",
+        "question": "The favorite food of x",
+        "target": "Armadillo Meatballs"
+    },
+    "46": {
+        "prompt": "My name is Zyrsyn Gravlyn.",
+        "question": "The favorite food of x",
+        "target": "Spicebow"
+    },
+    "47": {
+        "prompt": "My name is Zalem Tyxyx.",
+        "question": "The favorite food of x",
+        "target": "Spicebow"
+    },
+    "48": {
+        "prompt": "My name is Voxus Felael.",
+        "question": "The favorite food of x",
+        "target": "Braised Protein"
+    },
+    "49": {
+        "prompt": "My name is Steiel Roavor.",
+        "question": "The favorite food of x",
+        "target": "Braised Protein"
+    },
+    "50": {
+        "prompt": "My name is Zahus Stesyn.",
+        "question": "The favorite food of x",
+        "target": "Atlantis Bowl"
+    },
+    "51": {
+        "prompt": "My name is Evyan Taiel.",
+        "question": "The favorite food of x",
+        "target": "Cabbage Skewers"
+    },
+    "52": {
+        "prompt": "My name is Taiel Zalem.",
+        "question": "The favorite food of x",
+        "target": "Flakefish"
+    },
+    "53": {
+        "prompt": "My name is Evyon Havos.",
+        "question": "The favorite food of x",
+        "target": "Flakefish"
+    },
+    "54": {
+        "prompt": "My name is Roaiel Catora.",
+        "question": "The favorite food of x",
+        "target": "Festirice"
+    },
+    "55": {
+        "prompt": "My name is Zaleth Ileth.",
+        "question": "The favorite food of x",
+        "target": "Festirice"
+    },
+    "56": {
+        "prompt": "My name is Lexkor Saam.",
+        "question": "The favorite food of x",
+        "target": "Stewed Comfort"
+    },
+    "57": {
+        "prompt": "My name is Moran Pedyn.",
+        "question": "The favorite food of x",
+        "target": "Stewed Comfort"
+    },
+    "58": {
+        "prompt": "My name is Lexeth Neon.",
+        "question": "The favorite food of x",
+        "target": "Spicechicken"
+    },
+    "59": {
+        "prompt": "My name is Cuuna Roiel.",
+        "question": "The favorite food of x",
+        "target": "Pi\u00f1a Colada Curry"
+    },
+    "60": {
+        "prompt": "My name is Minoth Velos.",
+        "question": "The favorite food of x",
+        "target": "Batterfish"
+    },
+    "61": {
+        "prompt": "My name is Ilix Tiiel.",
+        "question": "The favorite food of x",
+        "target": "Open Sandwich"
+    },
+    "62": {
+        "prompt": "My name is Zaloth Belael.",
+        "question": "The favorite food of x",
+        "target": "Saffronpan"
+    },
+    "63": {
+        "prompt": "My name is Jauna Xenum.",
+        "question": "The favorite food of x",
+        "target": "Saffronpan"
+    },
+    "64": {
+        "prompt": "My name is Umlyn Nexix.",
+        "question": "The favorite food of x",
+        "target": "Creamy Beef"
+    },
+    "65": {
+        "prompt": "My name is Hyxsyn Mevor.",
+        "question": "The favorite food of x",
+        "target": "Beetsoup"
+    },
+    "66": {
+        "prompt": "My name is Cuis Xenam.",
+        "question": "The favorite food of x",
+        "target": "Fig Casserole"
+    },
+    "67": {
+        "prompt": "My name is Pyros Umwyn.",
+        "question": "The favorite food of x",
+        "target": "Stuffpockets"
+    },
+    "68": {
+        "prompt": "My name is Zalex Loaryn.",
+        "question": "The favorite food of x",
+        "target": "Herbstew"
+    },
+    "69": {
+        "prompt": "My name is Voxeth Morus.",
+        "question": "The favorite food of x",
+        "target": "Herbstew"
+    },
+    "70": {
+        "prompt": "My name is Neim Evyeon.",
+        "question": "The favorite food of x",
+        "target": "Eggskillet"
+    },
+    "71": {
+        "prompt": "My name is Quinira Tyxon.",
+        "question": "The favorite food of x",
+        "target": "Eggskillet"
+    }
+}

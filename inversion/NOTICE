@@ -1,0 +1,8 @@
+This directory contains a vendored copy of vec2text, originally authored by
+John Morris and licensed under the Software for Open Models License (SOM) 1.0.
+
+Original repository: https://github.com/jxmorris12/vec2text
+
+Local modifications:
+- inversion/vec2text/utils/utils.py: added ignore_errors=True to shutil.rmtree
+  in dataset_map_multi_worker to handle filesystem race conditions during cleanup.
